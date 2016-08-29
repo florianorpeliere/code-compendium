@@ -109,7 +109,7 @@ Dans un groupe fini, si on compose un certain nombre de fois un élément avec l
 
 [PDF](http://sma.epfl.ch/~dzaganid/TP_Categories.pdf)
 
-[Application](https://fr.wikipedia.org/wiki/Application_(math%C3%A9matiques\))
+[Application](https://fr.wikipedia.org/wiki/Application_(math%C3%A9matiques))
 
 [Théorie des catégories](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_cat%C3%A9gories)
 
