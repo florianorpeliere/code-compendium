@@ -15,7 +15,9 @@ Ces opérations sont normalement appelées **lois de composition interne**.
 
 commutativité
 
-	∀x,y ∈ E,  x * y = y * x
+<p align="center">
+  <img src="http://chart.apis.google.com/chart?cht=tx&chl=\forall{x,y}\in\mathbb{E},x\ast%20y=y\ast%20x"/>
+</p>
 	
 associativité
 
