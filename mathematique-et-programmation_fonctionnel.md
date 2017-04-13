@@ -30,8 +30,6 @@ Ces opérations sont normalement appelées **lois de composition interne**.
 <p align="center">
   <img src="http://chart.apis.google.com/chart?cht=tx&chl=e\in\mathbb{E},\forall{x}\in\mathbb{E},\;x\;\ast\;e=e\;\ast\;x"/>
 </p>
-	
-	e ∈ E, ∀x  x * e = e * x = e
 
 #### Les Magmas
 
