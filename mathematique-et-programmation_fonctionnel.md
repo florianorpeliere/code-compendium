@@ -11,19 +11,25 @@ Une *structure*, c'est rajouté quelque chose en plus pour structurer notre ense
 #### Propriétés des opérations
 
 Ces opérations sont normalement appelées **lois de composition interne**.
-(Interne car nous restons toujours dans le même ensemble après une composition, et composition  parceque nous composons **deux** éléments ensemble pour en faire un troisième.)
+(Interne car nous restons toujours dans le même ensemble après une composition, et composition parceque nous composons **deux** éléments ensemble pour en faire un troisième.)
 
-commutativité
+##### commutativité
 
 <p align="center">
-  <img src="http://chart.apis.google.com/chart?cht=tx&chl=\forall{x,y}\in\mathbb{E},x\ast%20y=y\ast%20x"/>
+  <img src="http://chart.apis.google.com/chart?cht=tx&chl=\forall{x,y}\in\mathbb{E},\;x\;\ast\;y=y\;\ast\;x"/>
 </p>
 	
-associativité
+##### associativité
 
-	∀x,y,z ∈ E,  (x * y) * z = x * (y * z)
+<p align="center">
+  <img src="http://chart.apis.google.com/chart?cht=tx&chl=\forall{x,y,z}\in\mathbb{E},\;(x\;\ast\;y)\;\ast\;z=x\;\ast\;(y\;\ast\;z)"/>
+</p>
 	
-élément neutre
+##### élément neutre
+
+<p align="center">
+  <img src="http://chart.apis.google.com/chart?cht=tx&chl=e\in\mathbb{E},\forall{x}\in\mathbb{E},\;x\;\ast\;e=e\;\ast\;x"/>
+</p>
 	
 	e ∈ E, ∀x  x * e = e * x = e
 
