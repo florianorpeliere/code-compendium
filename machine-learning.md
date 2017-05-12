@@ -72,6 +72,6 @@ We can measure the accuracy of our hypothesis function by using a cost function.
 
 ![](./imgs/cost-function.png)
 
-To break it apart, it is 12 x¯ where x¯ is the mean of the squares of hθ(xi)−yi , or the difference between the predicted value and the actual value.
+To break it apart, it is 12 X̅ where X̅ is the mean of the squares of hθ(xi)−yi , or the difference between the predicted value and the actual value.
 
 This function is otherwise called the "Squared error function", or "Mean squared error". The mean is halved (12) as a convenience for the computation of the gradient descent, as the derivative term of the square function will cancel out the 12 term.
