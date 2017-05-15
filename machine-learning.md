@@ -135,3 +135,5 @@ where
 j=0,1 represents the feature index number.
 
 At each iteration j, one should simultaneously update the parameters θ1,θ2,...,θn. Updating a specific parameter prior to calculating another one on the j(th) iteration would yield to a wrong implementation.
+
+* [Dérivée partielle](https://fr.wikipedia.org/wiki/D%C3%A9riv%C3%A9e_partielle)
